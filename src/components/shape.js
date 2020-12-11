@@ -11,4 +11,4 @@ class Shape{
   
 }
 
-module.exports = {Shape:Shape);
+module.exports = Shape;
